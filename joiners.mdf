@@ -1,11 +1,17 @@
-CREATE TABLE ();
+CREATE TABLE receipts_aug (
+
+);
 
 INSERT INTO ();
 
-CREATE TABLE ();
+CREATE TABLE receipts_sept (
+
+);
 
 INSERT INTO ();
 
-CREATE TABLE ();
+CREATE TABLE receipts_oct (
+
+);
 
 INSERT INTO ();
