@@ -1,5 +1,10 @@
 CREATE TABLE receipts_aug (
-
+  ID INT NOT NULL PRIMARY KEY,
+  first_name VARCHAR(255),
+  last_name VARCHAR(255),
+  item_name VARCHAR(255),
+  item_price INT,
+  total INT
 );
 
 INSERT INTO ();
